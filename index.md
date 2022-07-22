@@ -6,9 +6,9 @@
 #### 📅 Feb 2018 - Abr 2019
 #### Handling data - adapting code - microsimulation models - stata
 
-<div align = "justify">Doing this work was as I discovered the power of programming skills oriented to economic analysis. We developed a comparision between the 2014 fiscal reform and two own propousals to see the effect in the population expenditure and total recaudation, in this way using data from the national survey of household income and expenditure, we adapted a microsimulation model called LATAX developed for Laura Abramovsky a research associate of institute for fiscal studies.</div> 
+<div align = "justify">Doing this work was as I discovered the power of programming oriented to economic analysis. We developed a comparision between the 2014 fiscal reform and two own propousals to see the effect in the population expenditure and total recaudation, in this way using data from the national survey of household income and expenditure, we adapted a microsimulation model called LATAX developed for Laura Abramovsky a research associate of institute for fiscal studies.</div> 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/harellano1)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/harellano1) [![Law proposal](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
 
 ---
 ### Exploratory Data Analysis of the Mexican National Survey of Occupation and Employment
