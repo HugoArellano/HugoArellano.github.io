@@ -33,20 +33,19 @@
 ---
 <div align = "justify">I worked as a chief office assistant of a local congress woman in the LIX Legislature of Colima (2018-2021), this chance gave me the oportunity to support to the develoment of different law proposals</div>
 
----
 #### Center for the study of public fianaces of the Colima's Congress
 [![Law proposal](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://www.congresocol.gob.mx/web/Sistema/uploads/Iniciativas/INIC%20REF%20DIP%20MALU.pdf)
----
+
 #### Leggislative sesions efficency and parlamentary gazette
 [![Law proposal](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
----
+
 #### Adding a chapter to the local health law in order to promote the combat against overweight and obesity
 [![Law proposal](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
----
+
 #### Income tax reform for professional services
 113 in list - 52 resolution
 [![Law proposal](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
----
+
 
 ## Courses
 ---
