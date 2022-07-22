@@ -11,7 +11,6 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/harellano1)
 
 ---
-
 ### Counterfactual analysis with microsimulation models
 #### 📅 Feb 2018 - Abr 2019
 #### Handling data - adapting code - microsimulation models - stata
@@ -21,7 +20,6 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/harellano1)
 
 ---
-
 ### Build and exploring panel data for the study of payroll tax in Mexico
 #### 📅 Abr 2022
 #### Panel data - tax competition - python - streamlit
@@ -36,24 +34,22 @@
 <div align = "justify">I worked as a chief office assistant of a local congress woman in the LIX Legislature of Colima (2018-2021), this chance gave me the oportunity to support to the develoment of different law proposals</div>
 
 ---
-### Center for the study of public fianaces of the Colima's Congress
-
+#### Center for the study of public fianaces of the Colima's Congress
 [![Law proposal](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://www.congresocol.gob.mx/web/Sistema/uploads/Iniciativas/INIC%20REF%20DIP%20MALU.pdf)
 ---
-### Leggislative sesions efficency and parlamentary gazette
+#### Leggislative sesions efficency and parlamentary gazette
 [![Law proposal](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
 ---
-### Adding a chapter to the local health law in order to promote the combat against overweight and obesity
+#### Adding a chapter to the local health law in order to promote the combat against overweight and obesity
 [![Law proposal](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
 ---
-### Income tax reform for professional services
-113 in list
-52 resolution
+#### Income tax reform for professional services
+113 in list - 52 resolution
+[![Law proposal](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
+---
 
-[![Law proposal](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
----
 ## Courses
-
+---
 #### Realidad Social Latinoamericana - 2017
 [![Law proposal](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
 
@@ -89,7 +85,6 @@
 
 #### Thesis honorific mention - 2019
 
----
 
 
 
