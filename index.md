@@ -54,20 +54,40 @@
 ---
 ## Courses
 
-#### 
+#### Realidad Social Latinoamericana - 2017
+[![Law proposal](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
 
+#### La nueva Economía Digital en América Látina y el Caribe - 2018
+[![Law proposal](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
 
+#### Machine Learning and data science - 2021
+[![Law proposal](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
+
+#### Time Series Analysis and Forecasting - 2021
+[![Law proposal](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
+
+#### Advanced Management Training - 2022
+[![Law proposal](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
+
+#### Business Inteligence - 2022
+[![Law proposal](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
+
+#### Web Scrapping - 2022
+[![Law proposal](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
+
+#### Python Master Course - 2022
+[![Law proposal](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
 
 --- 
 ## Akwards 🏆
 
-#### Local University League of Football Indoor - 📅 May 2017
+#### Local University League of Football Indoor - 2017
 
-#### State University League of Football Indoor - 📅 Jun 2017
+#### State University League of Football Indoor - 2017
 
-#### Impulsa Indajo of the Colima's Town Hall: Better business idea - 📅 Sep 2018
+#### Impulsa Indajo of the Colima's Town Hall: Better business idea - 2018
 
-#### Thesis honorific mention - 📅 Sep 2019
+#### Thesis honorific mention - 2019
 
 ---
 
