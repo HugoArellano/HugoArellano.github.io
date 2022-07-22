@@ -43,7 +43,6 @@
 [![Law proposal](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
 
 #### Income tax reform for professional services
-113 in list - 52 resolution
 [![Law proposal](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
 
 
