@@ -8,7 +8,7 @@
 
 <div align = "justify">Doing this work was as I discovered the power of programming oriented to economic analysis. We developed a comparision between the 2014 fiscal reform and two own propousals to see the effect in the population expenditure by decile and total recaudation, in this way using data from the national survey of household income and expenditure, we adapted a microsimulation model called LATAX developed for Laura Abramovsky a research associate of institute for fiscal studies.</div>
 
-[![View the Graphics of Results](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/hugoarellano) 
+[![View the Graphics of Results](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/HugoArellano/testing_enoe) 
 [![Thesis Paper](https://img.shields.io/badge/PDF-Open_Research_Poster-red?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf) 
 
 ---
