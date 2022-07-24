@@ -11,6 +11,7 @@
 [![View the Graphics of Results](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/HugoArellano/testing_enoe) 
 [![Thesis Paper](https://img.shields.io/badge/PDF-Thesis_Paper-red?logo=adobe-acrobat-reader&logoColor=white)](pdf/microsimulacion_contrafactual_2014.pdf.pdf) 
 <center><img src="images/microsimulation_thesis.png"/></center>
+
 ---
 ### Exploratory Data Analysis of the Mexican National Survey of Occupation and Employment
 #### 📅 March 2020
@@ -19,7 +20,7 @@
 <div align = "justify">One of my task when I worked in the public sector time to time looked up official surverys and extract some useful insights, in order to support in a bunch of legislattive task like: reports, study and development of law propossals, political analysis and so on. The data of the national survey of occupation and employment was one of my favorite because its publication frecuency and sociodemographic content. In that period this jupyter notobook turn up in a kind of cheetsheet for me. I hope that you find useful.</div>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/HugoArellano/testing_enoe)
-
+<center><img src="images/enoe_chart."/></center>
 ---
 ### Build and exploring panel data for the study of payroll tax in Mexico
 #### 📅 Abr 2022
