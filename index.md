@@ -17,7 +17,7 @@
 #### 📅 March 2020
 #### Handling - plotting interactive - plotting geodata - python libraries
 
-<div align = "justify"In my old job, from time to time I was to look up some official surveys and extract insights in order to support a bunch of tasks like reports, study, and development of law proposals, political analysis, and so on. In this way, the National Survey of Occupation and Employment (Inegi-Enoe) turns into one of my favorites because of its frequent publication and useful sociodemographic data. So, I did those jupyter notebooks as a kind of cheat sheet, if you work with similar data likely you find it helpful.</div>
+<div align = "justify">In my old job, from time to time I was to look up some official surveys and extract insights in order to support a bunch of tasks like reports, study, and development of law proposals, political analysis, and so on. In this way, the National Survey of Occupation and Employment (Inegi-Enoe) turns into one of my favorites because of its frequent publication and useful sociodemographic data. So, I did those jupyter notebooks as a kind of cheat sheet, if you work with similar data likely you find it helpful.</div>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/HugoArellano/testing_enoe)
 <center><img src="images/enoe_view.gif"/></center>
@@ -33,8 +33,10 @@
 ---
 
 ## Support of legislative task
----
+
 <div align = "justify">I worked as a chief office assistant of the local congress lady Malú Berver in the LIX Legislature of Colima (2018 – 2021), this gave me the chance to collaborate in the development of different law proposals, in the following links you can see some of them.</div>
+
+---
 
 #### Center for the study of public fianaces of the Colima's Congress
 <div align = "justify"> Objetive: The center for the study of public finances of the Colima’s Congress will be created as a support area capable to advise legislative commissions; make forecasting and analyzing public finances; endowing with request information on public finances to legislative commissions and parliamentary groups; advice about financial congress issues. In other words, the Center has the mission to endeavor Colima’s public finance behavior.</div>
