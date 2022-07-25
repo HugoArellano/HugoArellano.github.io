@@ -26,20 +26,17 @@
 #### 📅 Abr 2022
 #### Panel data - tax competition - python - streamlit
 
-<div align = "justify">Extracting information from the National Institute of Statistics, Geography and Informatics (Inegi), I build a panel data, in order to contribute to develoment of a research paper oriented to study tax competition across the different mexican states. These scripts contains the full process from charge and handling data to the development of an interactive app as an exploratory data analisis</div>
+<div align = "justify">I build a panel data in order to contribute to development a research paper oriented to study tax competition across the different mexican states. These github scripts contains, on one hand  the full process of charge and handling data multiple dataset
+
+to the development of an interactive app as an exploratory data analisis.</div>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/harellano1)
 
 ---
 
-### 
-#### 📅 May 2022
-#### Random control trial - python - empirical revolution
----
-
 ## Support of legislative task
 ---
-<div align = "justify">I worked as a chief office assistant of a local congress woman in the LIX Legislature of Colima (2018-2021), this chance gave me the oportunity to support to the develoment of different law proposals</div>
+<div align = "justify">I worked as a chief office assistant of a local congress woman (Malú Berver) in the LIX Legislature of Colima (2018-2021), this chance gave me the oportunity to support to the develoment of different law proposals.</div>
 
 #### Center for the study of public fianaces of the Colima's Congress
 [![Law proposal](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://www.congresocol.gob.mx/web/Sistema/uploads/Iniciativas/INIC%20REF%20DIP%20MALU.pdf)
