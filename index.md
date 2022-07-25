@@ -98,7 +98,7 @@
 * Impulsa Indajo of the Colima's Town Hall: Better business idea
 * Thesis honorific mention - 2019
 
-<center><img src="images/awards.jpg"/></center>
+<center><img src="images/awards.jpeg"/></center>
 
 
 
