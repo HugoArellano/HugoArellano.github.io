@@ -38,14 +38,14 @@
 
 ---
 
-#### Center for the study of public fianaces of the Colima's Congress
+### Center for the study of public fianaces of the Colima's Congress
 <div align = "justify"> Objetive: The center for the study of public finances of the Colima’s Congress will be created as a support area capable to advise legislative commissions; make forecasting and analyzing public finances; endowing with request information on public finances to legislative commissions and parliamentary groups; advice about financial congress issues. In other words, the Center has the mission to endeavor Colima’s public finance behavior.</div>
 
 <div align = "justify">Status: Wating for analysis</div>
 
 [![Law proposal](https://img.shields.io/badge/PDF-Law_Proposal-red?logo=adobe-acrobat-reader&logoColor=white)](https://www.congresocol.gob.mx/web/Sistema/uploads/Iniciativas/INIC%20REF%20DIP%20MALU.pdf)
 
-#### Leggislative sesions efficency and parlamentary gazette
+### Leggislative sesions efficency and parlamentary gazette
 
 <div align = "justify">Status: In order to promote transparency, access to information, and effective time management in parliamentary sessions, we encourage the electronic publication of the congress sentences on time (24 hours before of the session starts).</div>
 
@@ -53,7 +53,7 @@
 
 [![Law proposal](https://img.shields.io/badge/PDF-Law_Proposal-red?logo=adobe-acrobat-reader&logoColor=white)](https://www.congresocol.gob.mx/web/Sistema/uploads/Iniciativas/refLeyOrg%C3%A1nicaPoderLegislativoDipMalu001.pdf)
 
-#### Promoting the combat against overweight and obesity
+### Promoting the combat against overweight and obesity
 
 <div align = "justify">Diseases associated with overweight and obesity have multiple consequences, some related to life quality and others related to productivity. According to the health and nutrition national survey, in Mexico 72.5% of the population older than 20 years suffer from overweight or obesity, in 2017, six of the ten principal death causes in Mexico were related to overweight and obesity. Promoting effective combat against overweight or obesity have two main benefits, on one hand, we can wait for an increase in expectation and quality of life, on the other hand, it is reasonable to hope for an increase in work productivity () and a virtual lowest expenditure related to the treatment of obesity diseases.</div>
 
@@ -92,15 +92,13 @@
 [![Law proposal](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)]()
 
 --- 
-## Akwards 🏆
+## Awards 🏆
+---
+* Captian of the champion team of the Universitary League (and cup) of Football Indoor
+* Impulsa Indajo of the Colima's Town Hall: Better business idea
+* Thesis honorific mention - 2019
 
-#### Local University League of Football Indoor - 2017
-
-#### State University League of Football Indoor - 2017
-
-#### Impulsa Indajo of the Colima's Town Hall: Better business idea - 2018
-
-#### Thesis honorific mention - 2019
+<center><img src="images/awards.jpg"/></center>
 
 
 
