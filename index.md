@@ -22,6 +22,7 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/HugoArellano/testing_enoe)
 <center><img src="images/enoe_view.gif"/></center>
 ---
+
 ### Build and exploring panel data for the study of payroll tax in Mexico
 #### 📅 Abr 2022
 #### Panel data - tax competition - python - streamlit
@@ -30,6 +31,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/harellano1)
 <center><img src="images/app_streamlit.gif"/></center>
+
 ---
 
 ## Support of legislative task
