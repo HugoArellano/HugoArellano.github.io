@@ -88,18 +88,12 @@
 #### Business Inteligence - 2022
 [![Law proposal](https://img.shields.io/badge/PDF-Course_Certification-blue?logo=adobe-acrobat-reader&logoColor=white)]()
 
-#### Web Scrapping - 2022
-[![Law proposal](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)]()
-
-#### Python Master Course - 2022
-[![Law proposal](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)]()
-
 --- 
 ## Awards 🏆
 ---
-* Captian of the champion team of the Universitary League (and cup) of Football Indoor
-* Impulsa Indajo of the Colima's Town Hall: Better business idea
-* Thesis honorific mention - 2019
+* Captain of the champion team of the University League (and cup) of Football Indoor - 2017
+* Impulsa Indajo of the Colima's Town Hall: Better business idea - 2018
+* Honorable mention for thesis work - 2019
 
 <center><img src="images/awards.jpeg"/></center>
 
