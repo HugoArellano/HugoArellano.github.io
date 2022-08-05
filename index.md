@@ -31,7 +31,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/HugoArellano/mexican_payroll_tax)
 <center><img src="images/prev_app.png"/></center>
-<center><img src="images/app_streamlit.gif"/></center>
+<center><img src="images/streamlit_app.gif"/></center>
 
 ---
 
