@@ -35,7 +35,7 @@
 
 ---
 
-## Support of legislative task
+## Support for legislative work
 
 <div align = "justify">I worked as a chief office assistant of the local congress lady Malú Berver in the LIX Legislature of Colima (2018 – 2021), this gave me the chance to collaborate in the development of different law proposals, in the following links you can see some of them.</div>
 
@@ -82,8 +82,9 @@
 #### Realidad Social Latinoamericana - 2017
 [![Law proposal](https://img.shields.io/badge/PDF-Course_Certification-blue?logo=adobe-acrobat-reader&logoColor=white)](https://studio.edx.org/asset-v1:IDBx+IDB15x+2T2017+type@asset+block@Constancia_n%C3%BAmero_de_horas_curso_IDB15x.pdf)
 
+--- 
 
-#### In process 
+### In process 
 
 #### Business Inteligence - 2022
 [![Law proposal](https://img.shields.io/badge/PDF-Course_Certification-blue?logo=adobe-acrobat-reader&logoColor=white)]()
