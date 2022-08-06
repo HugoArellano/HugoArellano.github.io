@@ -33,7 +33,7 @@
 ---
 
 ### Behavioral economics 
-### Microeconomics - Causal analysis - Behavioral design 
+#### Microeconomics - Causal analysis - Behavioral design 
 <div align = "justify">With the credibility revolution in empirical economics alongside development of behavioral theories and computational power, the average economist has a renew power. We can run experiments in order to reach a set goal "easiest" than the past decades. The following link contains some notebooks and annotations related, which goes since the basic concepts of causality and beahvior desing, until more complex structures of behavior. </div>    
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/HugoArellano)
@@ -80,23 +80,23 @@
 ## Courses
 ---
 ### Advanced Management Training - 2022
-#### Persuade - Comunication -Time Managment - Team Performance 
+Persuade - Comunication -Time Managment - Team Performance 
 [![Law proposal](https://img.shields.io/badge/PDF-Course_Certification-blue?logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1Q7GiWX-XuVlaQZ7LcnA5gWVj5BWJdHE9/view)
 
 ### Time Series Analysis and Forecasting - 2021
-#### LSTM - Sarimax - Multivariate
+LSTM - Sarimax - Multivariate
 [![Law proposal](https://img.shields.io/badge/PDF-Course_Certification-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
 
 ### Machine Learning and data science - 2021
-#### Handling data - Data Process - Machine Learning - Deep Learning - Web Scraping
+Handling data - Data Process - Machine Learning - Deep Learning - Web Scraping
 [![Law proposal](https://img.shields.io/badge/PDF-Course_Certification-blue?logo=adobe-acrobat-reader&logoColor=white)](https://www.udemy.com/certificate/UC-b21ee7d0-8992-497b-a6ad-6d4812ea0a09/)
 
 ### La nueva Economía Digital en América Látina y el Caribe - 2018
-#### Public Polices - Artificial Inteligence - Productivity - Digitalization
+Public Polices - Artificial Inteligence - Productivity - Digitalization
 [![Law proposal](https://img.shields.io/badge/PDF-Course_Certification-blue?logo=adobe-acrobat-reader&logoColor=white)](https://courses.edx.org/certificates/f28ab7f5c2144ffe8c536a5f8c7415a9)
 
 ### Realidad Social Latinoamericana - 2017
-#### Critical Indices - Public Polices - Labor - Education - Social Programs
+Critical Indices - Public Polices - Labor - Education - Social Programs
 [![Law proposal](https://img.shields.io/badge/PDF-Course_Certification-blue?logo=adobe-acrobat-reader&logoColor=white)](https://studio.edx.org/asset-v1:IDBx+IDB15x+2T2017+type@asset+block@Constancia_n%C3%BAmero_de_horas_curso_IDB15x.pdf)
 
 --- 
@@ -104,7 +104,7 @@
 ### In process 
 
 ### Business Inteligence - 2022
-#### SQL - Tableau - Excel - Analytics - Statistics
+SQL - Tableau - Excel - Analytics - Statistics
 [![Law proposal](https://img.shields.io/badge/PDF-Course_Certification-blue?logo=adobe-acrobat-reader&logoColor=white)]()
 
 --- 
