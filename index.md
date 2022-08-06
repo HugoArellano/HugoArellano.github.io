@@ -58,7 +58,7 @@
 ### Center for the study of public fianaces of the Colima's Congress
 <div align = "justify"> Objetive: The center for the study of public finances of the Colima’s Congress will be created as a support area capable to advise legislative commissions; make forecasting and analyzing public finances; endowing with request information on public finances to legislative commissions and parliamentary groups; advice about financial congress issues. In other words, the Center has the mission to endeavor Colima’s public finance behavior.</div>
 
-<div align = "justify">Status: Wating for analysis</div>
+####Status: Wating for analysis
 
 [![Law proposal](https://img.shields.io/badge/PDF-Law_Proposal-red?logo=adobe-acrobat-reader&logoColor=white)](https://www.congresocol.gob.mx/web/Sistema/uploads/Iniciativas/INIC%20REF%20DIP%20MALU.pdf)
 
@@ -66,7 +66,7 @@
 
 <div align = "justify">Status: In order to promote transparency, access to information, and effective time management in parliamentary sessions, we encourage the electronic publication of the congress sentences on time (24 hours before of the session starts).</div>
 
-<div align = "justify">Status: Published in the official government's daily “El Estado de Colima”</div>
+#### Status: Published in the official government's daily “El Estado de Colima”.
 
 [![Law proposal](https://img.shields.io/badge/PDF-Law_Proposal-red?logo=adobe-acrobat-reader&logoColor=white)](https://www.congresocol.gob.mx/web/Sistema/uploads/Iniciativas/refLeyOrg%C3%A1nicaPoderLegislativoDipMalu001.pdf)
 
@@ -74,7 +74,7 @@
 
 <div align = "justify">Diseases associated with overweight and obesity have multiple consequences, some related to life quality and others related to productivity. According to the health and nutrition national survey, in Mexico 72.5% of the population older than 20 years suffer from overweight or obesity, in 2017, six of the ten principal death causes in Mexico were related to overweight and obesity. Promoting effective combat against overweight or obesity have two main benefits, on one hand, we can wait for an increase in expectation and quality of life, on the other hand, it is reasonable to hope for an increase in work productivity () and a virtual lowest expenditure related to the treatment of obesity diseases.</div>
 
-<div align = "justify">Status: Published in the official government's daily “El Estado de Colima”</div>
+####Status: Published in the official government's daily “El Estado de Colima”.
 
 [![Law proposal](https://img.shields.io/badge/PDF-Law_Proposal-red?logo=adobe-acrobat-reader&logoColor=white)](https://www.congresocol.gob.mx/web/Sistema/uploads/Iniciativas/INIC%20DIP%20MALU,%20REF%20LEY%20DE%20SALUD001.pdf)
 
@@ -82,23 +82,23 @@
 ## Courses
 ---
 ### Advanced Management Training - 2022
-Persuade - Comunication -Time Managment - Team Performance 
+#### Persuade - Comunication -Time Managment - Team Performance 
 [![Law proposal](https://img.shields.io/badge/PDF-Course_Certification-blue?logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1Q7GiWX-XuVlaQZ7LcnA5gWVj5BWJdHE9/view)
 
 ### Time Series Analysis and Forecasting - 2021
-LSTM - Sarimax - Multivariate
+#### LSTM - Sarimax - Multivariate
 [![Law proposal](https://img.shields.io/badge/PDF-Course_Certification-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
 
 ### Machine Learning and data science - 2021
-Handling data - Data Process - Machine Learning - Deep Learning - Web Scraping
+####Handling data - Data Process - Machine Learning - Deep Learning - Web Scraping
 [![Law proposal](https://img.shields.io/badge/PDF-Course_Certification-blue?logo=adobe-acrobat-reader&logoColor=white)](https://www.udemy.com/certificate/UC-b21ee7d0-8992-497b-a6ad-6d4812ea0a09/)
 
 ### La nueva Economía Digital en América Látina y el Caribe - 2018
-Public Polices - Artificial Inteligence - Productivity - Digitalization
+#### Public Polices - Artificial Inteligence - Productivity - Digitalization
 [![Law proposal](https://img.shields.io/badge/PDF-Course_Certification-blue?logo=adobe-acrobat-reader&logoColor=white)](https://courses.edx.org/certificates/f28ab7f5c2144ffe8c536a5f8c7415a9)
 
 ### Realidad Social Latinoamericana - 2017
-Critical Indices - Public Polices - Labor - Education - Social Programs
+#### Critical Indices - Public Polices - Labor - Education - Social Programs
 [![Law proposal](https://img.shields.io/badge/PDF-Course_Certification-blue?logo=adobe-acrobat-reader&logoColor=white)](https://studio.edx.org/asset-v1:IDBx+IDB15x+2T2017+type@asset+block@Constancia_n%C3%BAmero_de_horas_curso_IDB15x.pdf)
 
 --- 
@@ -106,7 +106,7 @@ Critical Indices - Public Polices - Labor - Education - Social Programs
 ### In process 
 
 ### Business Inteligence - 2022
-SQL - Tableau - Excel - Analytics - Statistics
+####SQL - Tableau - Excel - Analytics - Statistics
 [![Law proposal](https://img.shields.io/badge/PDF-Course_Certification-blue?logo=adobe-acrobat-reader&logoColor=white)]()
 
 --- 
