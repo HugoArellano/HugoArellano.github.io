@@ -44,6 +44,7 @@
 #### Machine learning - Web scraping - Visualization
 
 <div align = "justify"> As an inveterate learner, I’ve spent many hours attempting to enlarge my skills toolkit. These notebooks are a brief compilation of annotations from books, posts, research papers, basic projects, and so on, that help me to step forward in the data science world, including handling and cleaning data, machine learning, web scraping, and visualization.</div>
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/HugoArellano)
 
 ---
