@@ -3,8 +3,7 @@
 ## Projects
 ---
 ### Counterfactual analysis with microsimulation models
-#### 📅 Feb 2018 - Abr 2019
-#### Handling data - adapting code - microsimulation models - stata
+#### Handling data - adapting code - microsimulation models - macroeconomics
 
 <div align = "justify">We adapted a STATA microsimulation model called LATAX developed for Laura Abramovsky a research associate of the Institute for Fiscal Studies (UK), in order to develop a comparison between the 2014 fiscal reform and two own proposals to see the effect on the population expenditure by spending decile. On the other hand, we also observe the behavior of tax revenue.</div>
 
@@ -14,8 +13,7 @@
 
 ---
 ### Exploratory Data Analysis of the Mexican National Survey of Occupation and Employment
-#### 📅 March 2020
-#### Handling - plotting interactive - plotting geodata - python libraries
+#### Handling data - interactive - geodata - python libraries
 
 <div align = "justify">In my old job, from time to time I was to look up some official surveys and extract insights in order to support a bunch of tasks like reports, study, and development of law proposals, political analysis, and so on. In this way, the National Survey of Occupation and Employment (Inegi-Enoe) turns into one of my favorites because of its frequent publication and useful sociodemographic data. So, I did those jupyter notebooks as a kind of cheat sheet, if you work with similar data likely you find it helpful.</div>
 
@@ -24,7 +22,6 @@
 ---
 
 ### Build and exploring panel data for the study of payroll tax in Mexico
-#### 📅 Abr 2022
 #### Panel data - tax competition - python - streamlit
 
 <div align = "justify">I had the chance to collaborate in a research-oriented to study a virtual tax competition between Mexican states (in the process). In this work, I contribute in two ways, first search and handle the data, and deploy an interactive app in order to show the exploratory data analysis friendly.</div>
@@ -35,6 +32,21 @@
 
 ---
 
+### Behavioral economics 
+### Microeconomics - Causal analysis - Behavioral design 
+<div align = "justify">With the credibility revolution in empirical economics alongside development of behavioral theories and computational power, the average economist has a renew power. We can run experiments in order to reach a set goal "easiest" than the past decades. The following link contains some notebooks and annotations related, which goes since the basic concepts of causality and beahvior desing, until more complex structures of behavior. </div>    
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/HugoArellano)
+
+---
+
+### Notes of Data Science 
+#### Machine learning - Web scraping - Visualization
+
+<div align = "justify"> As an inveterate learner, I’ve spent many hours attempting to enlarge my skills toolkit. These notebooks are a brief compilation of annotations from books, posts, research papers, basic projects, and so on, that help me to step forward in the data science world, including handling and cleaning data, machine learning, web scraping, and visualization.</div>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/HugoArellano)
+
+---
 ## Support for legislative work
 
 <div align = "justify">I worked as a chief office assistant of the local congress lady Malú Berver in the LIX Legislature of Colima (2018 – 2021), this gave me the chance to collaborate in the development of different law proposals, in the following links you can see some of them.</div>
@@ -67,34 +79,41 @@
 
 ## Courses
 ---
-#### Advanced Management Training - 2022
+### Advanced Management Training - 2022
+#### Persuade - Comunication -Time Managment - Team Performance 
 [![Law proposal](https://img.shields.io/badge/PDF-Course_Certification-blue?logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1Q7GiWX-XuVlaQZ7LcnA5gWVj5BWJdHE9/view)
 
-#### Time Series Analysis and Forecasting - 2021
+### Time Series Analysis and Forecasting - 2021
+#### LSTM - Sarimax - Multivariate
 [![Law proposal](https://img.shields.io/badge/PDF-Course_Certification-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
 
-#### Machine Learning and data science - 2021
+### Machine Learning and data science - 2021
+#### Handling data - Data Process - Machine Learning - Deep Learning - Web Scraping
 [![Law proposal](https://img.shields.io/badge/PDF-Course_Certification-blue?logo=adobe-acrobat-reader&logoColor=white)](https://www.udemy.com/certificate/UC-b21ee7d0-8992-497b-a6ad-6d4812ea0a09/)
 
-#### La nueva Economía Digital en América Látina y el Caribe - 2018
+### La nueva Economía Digital en América Látina y el Caribe - 2018
+#### Public Polices - Artificial Inteligence - Productivity - Digitalization
 [![Law proposal](https://img.shields.io/badge/PDF-Course_Certification-blue?logo=adobe-acrobat-reader&logoColor=white)](https://courses.edx.org/certificates/f28ab7f5c2144ffe8c536a5f8c7415a9)
 
-#### Realidad Social Latinoamericana - 2017
+### Realidad Social Latinoamericana - 2017
+#### Critical Indices - Public Polices - Labor - Education - Social Programs
 [![Law proposal](https://img.shields.io/badge/PDF-Course_Certification-blue?logo=adobe-acrobat-reader&logoColor=white)](https://studio.edx.org/asset-v1:IDBx+IDB15x+2T2017+type@asset+block@Constancia_n%C3%BAmero_de_horas_curso_IDB15x.pdf)
 
 --- 
 
 ### In process 
 
-#### Business Inteligence - 2022
+### Business Inteligence - 2022
+#### SQL - Tableau - Excel - Analytics - Statistics
 [![Law proposal](https://img.shields.io/badge/PDF-Course_Certification-blue?logo=adobe-acrobat-reader&logoColor=white)]()
 
 --- 
+
 ## Awards 🏆
 ---
-* Captain of the champion team of the University League (and cup) of Football Indoor - 2017
-* Impulsa Indajo of the Colima's Town Hall: Better business idea - 2018
-* Honorable mention for thesis work - 2019
+* Captain of the champion team of the University League (and cup) of Football Indoor
+* Impulsa Indajo of the Colima's Town Hall: Better business idea
+* Honorable mention for thesis work
 
 <center><img src="images/awards.jpeg"/></center>
 
