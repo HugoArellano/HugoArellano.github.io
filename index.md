@@ -36,7 +36,7 @@
 
 ### Behavioral economics 
 #### Microeconomics - Causal analysis - Behavioral design 
-<div align = "justify">With the credibility revolution in empirical economics alongside development of behavioral theories and computational power, the average economist has a renew power. We can run experiments in order to reach a set goal "easiest" than the past decades. The following link contains some notebooks and annotations related, which goes since the basic concepts of causality and beahvior desing, until more complex structures of behavior. </div>    
+<div align = "justify">With the credibility revolution in empirical economics alongside the development of behavioral theories and computational power, the average economist has renewed power. We can run experiments in order to reach a set goal easier than in the past decades. The following link contains some notebooks and annotations related, which go from the basic concepts of causality and behavior design to more complex structures of behavior.</div>    
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/HugoArellano)
 
