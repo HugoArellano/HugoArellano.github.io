@@ -12,6 +12,7 @@
 <center><img src="images/microsimulation_thesis.png"/></center>
 
 ---
+
 ### Exploratory Data Analysis of the Mexican National Survey of Occupation and Employment
 #### Handling data - interactive - geodata - python libraries
 
@@ -19,6 +20,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/HugoArellano/testing_enoe)
 <center><img src="images/enoe_view.gif"/></center>
+
 ---
 
 ### Build and exploring panel data for the study of payroll tax in Mexico
@@ -62,6 +64,8 @@
 
 [![Law proposal](https://img.shields.io/badge/PDF-Law_Proposal-red?logo=adobe-acrobat-reader&logoColor=white)](https://www.congresocol.gob.mx/web/Sistema/uploads/Iniciativas/INIC%20REF%20DIP%20MALU.pdf)
 
+---
+
 ### Leggislative sesions efficency and parlamentary gazette
 
 <div align = "justify">Status: In order to promote transparency, access to information, and effective time management in parliamentary sessions, we encourage the electronic publication of the congress sentences on time (24 hours before of the session starts).</div>
@@ -69,6 +73,8 @@
 #### Status: Published in the official government's daily “El Estado de Colima”.
 
 [![Law proposal](https://img.shields.io/badge/PDF-Law_Proposal-red?logo=adobe-acrobat-reader&logoColor=white)](https://www.congresocol.gob.mx/web/Sistema/uploads/Iniciativas/refLeyOrg%C3%A1nicaPoderLegislativoDipMalu001.pdf)
+
+---
 
 ### Promoting the combat against overweight and obesity
 
