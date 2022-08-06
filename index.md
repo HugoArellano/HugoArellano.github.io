@@ -47,6 +47,7 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/HugoArellano)
 
 ---
+
 ## Support for legislative work
 
 <div align = "justify">I worked as a chief office assistant of the local congress lady Malú Berver in the LIX Legislature of Colima (2018 – 2021), this gave me the chance to collaborate in the development of different law proposals, in the following links you can see some of them.</div>
