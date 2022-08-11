@@ -118,7 +118,7 @@
 
 --- 
 
-### In process 
+### In the process 
 
 ### Business Inteligence - 2022
 #### SQL - Tableau - Excel - Analytics - Statistics
