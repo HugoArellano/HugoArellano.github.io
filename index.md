@@ -5,7 +5,7 @@
 ### Counterfactual analysis with microsimulation models
 #### Handling data - adapting code - microsimulation models - macroeconomics
 
-<div align = "justify">We adapted a STATA microsimulation model called LATAX developed for Laura Abramovsky a research associate of the Institute for Fiscal Studies (UK), in order to develop a comparison between the 2014 fiscal reform and two own proposals to see the effect on the population expenditure by decile. On the other hand, we also observe the behavior of tax revenue.</div>
+<div align = "justify">We adapted a STATA microsimulation model called LATAX developed for Laura Abramovsky, a research associate of the Institute for Fiscal Studies (UK), to compare the 2014 fiscal reform and two proposals to see the effect on the population expenditure by decile. On the other hand, we also observe the behavior of tax revenue.</div>
 
 [![View the Graphics of Results](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/HugoArellano/testing_enoe) 
 [![Thesis Paper](https://img.shields.io/badge/PDF-Thesis_Paper-red?logo=adobe-acrobat-reader&logoColor=white)](pdf/microsimulacion_contrafactual_2014.pdf.pdf) 
