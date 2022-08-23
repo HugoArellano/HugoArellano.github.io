@@ -1,6 +1,19 @@
 # Portfolio
 ---
 ## Projects
+
+---
+
+### Build and exploring panel data for the study of payroll tax in Mexico
+#### Panel data - tax competition - python - streamlit
+
+<div align = "justify">I had the chance to collaborate in a research-oriented to study a virtual tax competition between Mexican states (in the process). In this work, I contribute in two ways, first search and handle the data, and deploy an interactive app in order to show the exploratory data analysis friendly.</div>
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/HugoArellano/mexican_payroll_tax)
+<center><img src="images/prev_app.png"/></center>
+<center><img src="images/streamlit_app.gif"/></center>
+
+
 ---
 ### Counterfactual analysis with microsimulation models
 #### Handling data - adapting code - microsimulation models - macroeconomics
@@ -20,17 +33,6 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/HugoArellano/testing_enoe)
 <center><img src="images/enoe_view.gif"/></center>
-
----
-
-### Build and exploring panel data for the study of payroll tax in Mexico
-#### Panel data - tax competition - python - streamlit
-
-<div align = "justify">I had the chance to collaborate in a research-oriented to study a virtual tax competition between Mexican states (in the process). In this work, I contribute in two ways, first search and handle the data, and deploy an interactive app in order to show the exploratory data analysis friendly.</div>
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/HugoArellano/mexican_payroll_tax)
-<center><img src="images/prev_app.png"/></center>
-<center><img src="images/streamlit_app.gif"/></center>
 
 ---
 
