@@ -107,13 +107,13 @@
 ---
 
 ### La nueva Economía Digital en América Látina y el Caribe - 2018
-#### Public Polices - Artificial Inteligence - Productivity - Digitalization
+#### Public Policy - Artificial Inteligence - Productivity - Digitalization
 [![Law proposal](https://img.shields.io/badge/PDF-Course_Certification-blue?logo=adobe-acrobat-reader&logoColor=white)](https://courses.edx.org/certificates/f28ab7f5c2144ffe8c536a5f8c7415a9)
 
 ---
 
 ### Realidad Social Latinoamericana - 2017
-#### Critical Indices - Public Polices - Labor - Education - Social Programs
+#### Critical Indices - Public Policy - Labor - Education - Social Programs
 [![Law proposal](https://img.shields.io/badge/PDF-Course_Certification-blue?logo=adobe-acrobat-reader&logoColor=white)](https://studio.edx.org/asset-v1:IDBx+IDB15x+2T2017+type@asset+block@Constancia_n%C3%BAmero_de_horas_curso_IDB15x.pdf)
 
 --- 
