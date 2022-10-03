@@ -4,10 +4,10 @@
 
 ---
 
-### Build and exploring panel data for the study of payroll tax in Mexico
+### Build and exploring panel data: subnational tax competition in Mexico
 #### Panel data - tax competition - python - streamlit
 
-<div align = "justify">I had the chance to collaborate in a research-oriented to study a virtual tax competition between Mexican states (in the process). In this work, I contribute in two ways, first search and handle the data, and deploy an interactive app in order to show the exploratory data analysis friendly.</div>
+<div align = "justify">I had the chance to collaborate in a research-oriented to study a subnational tax competition Mexican states. In general I contribute in two ways, first searching and handling the data, second deploying an interactive app in order to show the exploratory data analysis.</div>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/HugoArellano/mexican_payroll_tax)
 <center><img src="images/prev_app.png"/></center>
@@ -18,21 +18,12 @@
 ### Counterfactual analysis with microsimulation models
 #### Handling data - adapting code - microsimulation models - macroeconomics
 
-<div align = "justify">We adapted a STATA microsimulation model called LATAX developed for Laura Abramovsky, a research associate of the Institute for Fiscal Studies (UK). Using data from (ENIGH - National Survey of Household Income and Expenditure), we compare the 2014 fiscal reform and two proposals to see the effect on the population expenditure by decile. On the other hand, we also observe the behavior of tax revenue.</div>
+<div align = "justify">My thesis team and I, adapted an STATA microsimulation model developed for Laura Abramovsky, a research associate of the Institute for Fiscal Studies (UK). So, using data from (ENIGH - National Survey of Household Income and Expenditure), on one hand we compare the 2014 fiscal reform and two proposals to see the effect on the population expenditure by decile, on the other hand, we observed the behavior of tax revenue.</div>
  
 [![Thesis Paper](https://img.shields.io/badge/PDF-Thesis_Paper-red?logo=adobe-acrobat-reader&logoColor=white)](pdf/microsimulacion_contrafactual_2014.pdf)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/HugoArellano/thesis_microsimulation_latax)
 <center><img src="images/microsimulation_thesis.png"/></center>
 
----
-
-### Exploratory Data Analysis of the Mexican National Survey of Occupation and Employment
-#### Handling data - interactive - geodata - python libraries
-
-<div align = "justify">In my old job, from time to time I was to look up some official surveys and extract insights in order to support a bunch of tasks like reports, study, and development of law proposals, political analysis, and so on. In this way, the National Survey of Occupation and Employment (Inegi-Enoe) turns into one of my favorites because of its frequent publication and useful sociodemographic data. So, I did those jupyter notebooks as a kind of cheat sheet, if you work with similar data likely you find it helpful.</div>
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/HugoArellano/testing_enoe)
-<center><img src="images/enoe_view.gif"/></center>
 
 ---
 
@@ -42,6 +33,17 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/HugoArellano/behavioral_analysis)
 
 <center><img src="images/behavioral.gif"/></center>
+
+---
+
+### Exploratory Data Analysis of the Mexican National Survey of Occupation and Employment
+#### Handling data - interactive - geodata - python libraries
+
+<div align = "justify">I was to look up some official surveys and extract insights in order to support a bunch of tasks like reports, study, and development of law proposals, political analysis, and so on. In this way, the National Survey of Occupation and Employment (Inegi-Enoe) turns into one of my favorites because of its frequent publication and useful sociodemographic data. So, I did those jupyter notebooks as type of cheat sheet, if you work with similar data, you might find them helpful.</div>
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/HugoArellano/testing_enoe)
+<center><img src="images/enoe_view.gif"/></center>
+
 ---
 
 ### Notes of Data Science 
