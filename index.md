@@ -3,6 +3,17 @@
 ## Projects
 
 ---
+### Data Management and personal finance services
+#### Behavior - python - Google apps script - evaluation - automated report
+
+<div align = "justify">I participated in designing a test for potential customers about their financial situation, which included a brief evaluation of areas like savings, debt, inversion, net worth, and stress. In order to achieve that, I collaborated with, question and score design, processed data entry, and then put the results into a friendly semi-automated PDF report.</div>
+
+<div align = "justify">On the other hand, I collaborated in developing the financial advisor's plan, in the first place designing questions that allowed us to weigh the customer's financial situation with metrics and then find and evaluate behavior patterns, in order to suggest to clients personalized strategies for their set goals.</div> 
+
+<center><img src="images/fin.gif"/></center>
+
+
+---
 
 ### Build and exploring panel data: subnational tax competition in Mexico
 #### Panel data - tax competition - python - streamlit
